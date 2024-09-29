@@ -1,4 +1,5 @@
 # Tourism Website
 # Check this out
-https://yashashvi0101.github.io/Itinerary_Builder/
+
+https://yashashvi0101.github.io/Tourism_Website/
 
