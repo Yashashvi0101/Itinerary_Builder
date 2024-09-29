@@ -1,3 +1,3 @@
-# website_TPP
+# Itinerary Builder
 
-Live Preview: https://kimayaa1.github.io/website_TPP/
+
